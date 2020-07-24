@@ -1,0 +1,86 @@
+
+body{
+    background:lightblue;
+    border: none;
+    margin: 0;
+}
+#vicky_title{
+    /* align-content: center; */
+    text-align: center;
+    margin: 0;
+    /* width: 15em; */
+    /* border: 1px solid #333; */
+    /* box-shadow: 8px 8px 5px #444; */
+    /* padding: 8px 12px; */
+    /* background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc); */
+    /* border: none; */
+    background-color: aliceblue;
+    width: 70%;
+    /* display: flex; */
+    /* display: inline-block;
+    align-items: center; */
+    /* float: left; */
+    /* vertical-align: middle; */
+    /* position: absolute;
+    left: 50; */
+}
+#vicky_cv{
+    /* align-content: center;
+    text-align: justify; */
+    /* background-color: aliceblue; */
+    /* display: inline-block; */ 
+    /* align-items: center; */
+    /* justify-content: center; */
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: 0;
+    
+    
+
+}
+#objective{
+    background-color: beige;
+    width: 70%;
+    /* align-items: center; */
+    padding: 10px;
+}
+#Aca_qua{
+    background-color: burlywood;
+    width: 70%;
+    padding: 10px;
+}
+#work_exp{
+    background-color: cadetblue;
+    width: 70%;
+    padding: 10px;
+    
+}
+td{
+    text-align: justify;
+    padding: 40px;
+}
+
+#soft_skill{
+    background-color: coral;
+    width: 70%;
+    padding: 10px;
+}
+#hard_skill{
+    background-color: gold;
+    width: 70%;
+    padding: 10px;
+    border: 0;
+}
+#referee{
+    background-color: hotpink;
+    width: 70%;
+    padding: 10px;
+    border: 0;
+}
+/* .rule{
+    width: 50%;
+    /* position: absolute;
+    right: 0;
+    top: 0; */
+   
