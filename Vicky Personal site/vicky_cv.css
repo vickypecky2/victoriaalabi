@@ -3,11 +3,14 @@ body{
     background:lightblue;
     border: none;
     margin: 0;
+    /* background-image: ; */
 }
-#vicky_title{
+.vicky_title{
     /* align-content: center; */
     text-align: center;
     margin: 0;
+    padding: 10px;
+    font-size: 20px;
     /* width: 15em; */
     /* border: 1px solid #333; */
     /* box-shadow: 8px 8px 5px #444; */
@@ -31,26 +34,32 @@ body{
     /* display: inline-block; */ 
     /* align-items: center; */
     /* justify-content: center; */
-    position: absolute;
+    /* position: absolute;
     right: 0;
     top: 0;
-    border: 0;
+    border: 0; */
+    /* float: ; */
+    position: relative;
+    top: 20px;
+    left: 200px;
+    right: 200px;
+
     
     
 
 }
-#objective{
+.objective{
     background-color: beige;
     width: 70%;
     /* align-items: center; */
     padding: 10px;
 }
-#Aca_qua{
+.Aca_qua{
     background-color: burlywood;
     width: 70%;
     padding: 10px;
 }
-#work_exp{
+.work_exp{
     background-color: cadetblue;
     width: 70%;
     padding: 10px;
@@ -61,22 +70,26 @@ td{
     padding: 40px;
 }
 
-#soft_skill{
+.soft_skill{
     background-color: coral;
     width: 70%;
     padding: 10px;
 }
-#hard_skill{
-    background-color: gold;
+.hard_skill{
+    background-color:lightgray;
     width: 70%;
     padding: 10px;
     border: 0;
 }
-#referee{
+.referee{
     background-color: hotpink;
     width: 70%;
     padding: 10px;
     border: 0;
+}
+.heading{
+    font: 20px;
+    color: blue;
 }
 /* .rule{
     width: 50%;
